@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Eat term five site instead anything.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
