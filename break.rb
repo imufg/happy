@@ -8,3 +8,6 @@ puts "Hello, World!"
 
 # Finish plant suddenly stand image central general.
 puts "Hello, World!"
+
+# General camera recognize.
+puts "Hello, World!"
