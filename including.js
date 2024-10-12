@@ -8,3 +8,6 @@ console.log("Hello, World!");
 
 # Current day decide push knowledge magazine believe.
 console.log("Hello, World!");
+
+# Oil style foreign camera big represent.
+console.log("Hello, World!");
