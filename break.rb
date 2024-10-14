@@ -11,3 +11,6 @@ puts "Hello, World!"
 
 # General camera recognize.
 puts "Hello, World!"
+
+# Positive second tell state.
+puts "Hello, World!"
