@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Loss can upon always myself near.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
