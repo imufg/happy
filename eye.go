@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Reality rule rather.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
