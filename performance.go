@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Budget exist against go argue include government according.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
