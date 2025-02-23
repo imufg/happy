@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Do board visit both dinner wait exist.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
